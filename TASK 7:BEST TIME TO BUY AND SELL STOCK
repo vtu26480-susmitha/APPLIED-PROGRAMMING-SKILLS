@@ -1,0 +1,22 @@
+PROGRAM:
+class Solution {
+    public int maxProfit(int[] prices) {
+        int minPrice = Integer.MAX_VALUE;
+        int maxProfit = 0;
+
+        for (int price : prices) {
+            if (price < minPrice) {
+                minPrice = price; // update min price
+            } else {
+                maxProfit = Math.max(maxProfit, price - minPrice); // calculate profit
+            }
+        }
+
+        return maxProfit;
+    }
+}
+OUTPUT:
+prices =
+[7,1,5,3,6,4]
+Output
+5
