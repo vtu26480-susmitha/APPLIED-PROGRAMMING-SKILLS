@@ -1,0 +1,18 @@
+PROGRAM:
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+
+        return slow; // middle node (second middle if even length)
+    }
+}
+OUTPUT:
+[1,2,3,4,5]
+Output
+[3,4,5]
