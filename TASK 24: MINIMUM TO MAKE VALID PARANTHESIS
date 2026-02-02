@@ -1,0 +1,42 @@
+PROGRAM:
+import java.util.*;
+
+class Solution {
+    public String minRemoveToMakeValid(String s) {
+        Stack<Integer> stack = new Stack<>();
+        Set<Integer> remove = new HashSet<>();
+
+        // First pass: find invalid parentheses
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if (ch == '(') {
+                stack.push(i);
+            } else if (ch == ')') {
+                if (stack.isEmpty()) {
+                    remove.add(i); // invalid closing
+                } else {
+                    stack.pop();
+                }
+            }
+        }
+
+        // Remaining '(' in stack are invalid
+        while (!stack.isEmpty()) {
+            remove.add(stack.pop());
+        }
+
+        // Build result string
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < s.length(); i++) {
+            if (!remove.contains(i)) {
+                sb.append(s.charAt(i));
+            }
+        }
+
+        return sb.toString();
+    }
+}
+OUTPUT:
+Input: s = "lee(t(c)o)de)"
+Output: "lee(t(c)o)de"
