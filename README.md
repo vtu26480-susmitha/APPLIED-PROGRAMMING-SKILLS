@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0946-validate-stack-sequences](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0946-validate-stack-sequences) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Counting
 |  |
