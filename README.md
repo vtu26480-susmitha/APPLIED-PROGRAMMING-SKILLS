@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0008-string-to-integer-atoi) |
 | [0459-repeated-substring-pattern](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0796-rotate-string) |
 | [0890-find-and-replace-pattern](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0890-find-and-replace-pattern) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1408-string-matching-in-an-array](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1408-string-matching-in-an-array) |
@@ -130,5 +131,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1408-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
