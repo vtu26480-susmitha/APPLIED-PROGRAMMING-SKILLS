@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1314-matrix-block-sum) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0918-maximum-sum-circular-subarray) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## String Matching
 |  |
 | ------- |
