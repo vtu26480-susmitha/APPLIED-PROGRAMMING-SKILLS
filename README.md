@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0933-number-of-recent-calls) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1603-design-parking-system) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1472-design-browser-history) |
 ## Hash Function
 |  |
