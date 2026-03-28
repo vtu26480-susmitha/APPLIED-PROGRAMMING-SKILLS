@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-string-matching-in-an-array](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1408-string-matching-in-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1472-design-browser-history](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1472-design-browser-history) |
+| [2573-find-the-string-with-lcp](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Queue
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1396-design-underground-system) |
 | [1408-string-matching-in-an-array](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1408-string-matching-in-an-array) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2573-find-the-string-with-lcp](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2573-find-the-string-with-lcp) |
 ## Counting
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0867-transpose-matrix](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0867-transpose-matrix) |
 | [1314-matrix-block-sum](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1314-matrix-block-sum) |
+| [2573-find-the-string-with-lcp](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Prefix Sum
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0053-maximum-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0918-maximum-sum-circular-subarray) |
+| [2573-find-the-string-with-lcp](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## String Matching
 |  |
@@ -239,8 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0621-task-scheduler) |
+| [2573-find-the-string-with-lcp](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2573-find-the-string-with-lcp) |
 ## Math
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
