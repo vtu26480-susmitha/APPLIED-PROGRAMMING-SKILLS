@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0707-design-linked-list) |
 | [1472-design-browser-history](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0641-design-circular-deque) |
 | [0705-design-hashset](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0705-design-hashset) |
+| [0707-design-linked-list](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/vtu26480-susmitha/APPLIED-PROGRAMMING-SKILLS/tree/master/1472-design-browser-history) |
